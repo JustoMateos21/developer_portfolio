@@ -2,6 +2,7 @@ import React from "react";
 import developerHeader from "../assets/developer.png";
 import header from "../assets/header.png";
 import { Link } from "react-scroll";
+
 const Home = () => {
   return (
     <div className=" h-screen w-screen overflow-hidden">
